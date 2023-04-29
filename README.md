@@ -3,7 +3,7 @@
 <h2 style="font-weight: 300;">with cyberpunk hover text effect</h2>
 
 
-### <span style="color: #888; font-weight: 300;">This project is a web application that showcases a background glow effect and a hovering text effect. The project was developed using Vite and JavaScript.</span>
+### <span style="color: #888; font-weight: 100;">This project is a web application that showcases a background glow effect and a hovering text effect. The project was developed using Vite and JavaScript.</span>
 
 <p align="center">
   <img width="200" src="/src/assets/C.G.png" alt="CHNsLogo">
