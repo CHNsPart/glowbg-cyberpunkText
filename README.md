@@ -4,6 +4,7 @@ This project is a web application that showcases a background glow effect and a 
 
 <p align="center">
   <img width="200" src="/src/assets/C.G.png" alt="CHNsLogo">
+  <img width="200" src="/src/assets/chayan.png" alt="CHNsImage">
 </p>
 
 ## Features
