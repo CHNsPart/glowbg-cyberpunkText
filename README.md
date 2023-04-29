@@ -1,6 +1,6 @@
 # Background Glow Effect Project
-
-This project is a web application that showcases a background glow effect and a hovering text effect. The project was developed using Vite and JavaScript.
+## with cyberpunk hover text effect
+### <span style="color: #888; font-weight: 300;">This project is a web application that showcases a background glow effect and a hovering text effect. The project was developed using Vite and JavaScript.</span>
 
 <p align="center">
   <img width="200" src="/src/assets/C.G.png" alt="CHNsLogo">
