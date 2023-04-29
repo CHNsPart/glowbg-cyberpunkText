@@ -1,7 +1,11 @@
-#
-<h1 style="font-weight: 300;">Background Glow Effect Project</h1>
-<h2 style="font-weight: 300;">with cyberpunk hover text effect</h2>
-
+<span style="font-weight: 300; text-decoration: none; font-size:50px;">Background Glow Effect Project</span>
+<br/>
+<span style="font-weight: 300; text-decoration: none; font-size:30px;">with cyberpunk hover text effect</span>
+<style>
+h1 {
+  text-decoration: none;
+}
+</style>
 
 ### <span style="color: #888; font-weight: 100;">This project is a web application that showcases a background glow effect and a hovering text effect. The project was developed using Vite and JavaScript.</span>
 
