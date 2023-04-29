@@ -1,4 +1,4 @@
-## <span style="font-size: 50px; font-weight: 300; color: #fff; text-decoration: none">Background Glow Effect Project</span>
+# <span style="font-size: 50px; font-weight: 300; color: #fff; text-decoration: none">Background Glow Effect Project</span>
 ## <span style="font-size: 30px; font-weight: 300; color: #fff; text-decoration: none">with cyberpunk hover text effect</span>
 
 
