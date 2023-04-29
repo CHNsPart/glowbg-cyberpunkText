@@ -2,7 +2,9 @@
 
 This project is a web application that showcases a background glow effect and a hovering text effect. The project was developed using Vite and JavaScript.
 
-![Logo](/src/assets/C.G.png)
+<div style="text-align:center;">
+  <img src="/src/assets/C.G.png" alt="CHNsLogo" style="max-width: 50%; height: auto;">
+</div>
 
 ## Features
 
@@ -24,8 +26,8 @@ To get started with this project, follow these steps:
 2. run the command
 
 ```
-~ npm install
-~ npm run dev
+npm install
+npm run dev
 ```
 
 3. Move your mouse to see the background glow effect
