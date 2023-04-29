@@ -21,7 +21,13 @@ This project is a web application that showcases a background glow effect and a 
 To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine
-2. Open the `index.html` file in your preferred browser
+2. run the command
+
+```
+~ npm install
+~ npm run dev
+```
+
 3. Move your mouse to see the background glow effect
 4. Hover over the text to see the hovering text effect
 
