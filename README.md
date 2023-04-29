@@ -2,9 +2,9 @@
 
 This project is a web application that showcases a background glow effect and a hovering text effect. The project was developed using Vite and JavaScript.
 
-<div style="text-align:center;">
-  <img src="/src/assets/C.G.png" alt="CHNsLogo" style="max-width: 50%; height: auto;">
-</div>
+<p align="center">
+  <img width="200" src="/src/assets/C.G.png" alt="CHNsLogo">
+</p>
 
 ## Features
 
